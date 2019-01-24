@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "68569855532",
+    "firebase_url": "https://react-notification-67e9c.firebaseio.com",
+    "project_id": "react-notification-67e9c",
+    "storage_bucket": "react-notification-67e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68569855532:android:fa8c6227d0975813",
+        "android_client_info": {
+          "package_name": "com.pushnotificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68569855532-9fviibgr8lad5ieqg4qnhoi2dv599mqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQV77l33cxQJADDdjv2u_ctalFTsb6LFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
